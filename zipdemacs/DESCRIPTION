@@ -1,0 +1,10 @@
+Package: zipdemacs
+Title: acs Package Driven zipcode level Demographic Summary
+Version: 0.0.0.9000
+Authors@R: person("Sandesh", "Regmi", email = "sandeshregmi@gmail.com", role = c("aut", "cre"))
+Description: Generates domographic summary.
+Depends: R (>= 3.5.0)
+License: GNU?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
